@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LDXPlayer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8CE2FA371E83635A0040FD2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CE2FA921E84C04F0040FD2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CE2FAAB1E84C2A20040FD2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CE2FB821E84EB210040FD2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
