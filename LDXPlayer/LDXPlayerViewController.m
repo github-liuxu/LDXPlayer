@@ -46,8 +46,7 @@
 static int AAPLPlayerViewControllerKVOContext = 0;
 
 + (instancetype)playerController {
-    return [[[NSBundle mainBundle] loadNibNamed:@"boundle.bundle/LDXPlayerViewController" owner:self options:nil] firstObject];
-//    return [[LDXPlayerViewController alloc] initWithNibName:@"LDXPlayerViewController" bundle:nil];
+    return [[LDXPlayerViewController alloc] initWithNibName:@"LDXPlayerViewController" bundle:nil];
 }
 
 - (void)viewDidLoad {
